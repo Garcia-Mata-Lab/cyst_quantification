@@ -13,7 +13,7 @@ This repository contains Fiji/ImageJ macros and R scripts used for image analysi
 
 ## Software versions
 
-- Fiji/ImageJ: [version]
+- Fiji/ImageJ: [1.54p]
 - R: [4.1.2]
 - RStudio: [2021.09.0+351]
 
