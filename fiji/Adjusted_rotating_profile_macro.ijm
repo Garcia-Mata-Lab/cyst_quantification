@@ -1,4 +1,3 @@
-
 // Macro name: Rotating_Cyst_Profile
 // Radially quantifies the distribution of your protein of interest from the cyst centroid outwards
 // Author: Gabriel Kreider and Madeline Lovejoy
